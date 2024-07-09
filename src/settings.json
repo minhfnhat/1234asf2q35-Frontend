@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip",
+        "title": "Welcome to House: Your Coffee Sanctuary"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip",
+        "title": "Welcome to House: Your Coffee Sanctuary"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip",
+        "title": "Welcome to House: Your Coffee Sanctuary"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip",
+        "title": "Welcome to House: Your Coffee Sanctuary"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip",
+        "title": "Welcome to House: Your Coffee Sanctuary"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip",
+        "title": "Welcome to House: Your Coffee Sanctuary"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip",
+        "title": "Welcome to House: Your Coffee Sanctuary"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip",
+        "title": "Welcome to House: Your Coffee Sanctuary"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Welcome to House: Your Coffee Sanctuary",
+  "subtitle": "Brewed to Perfection, Savor the Comfort of Home with Every Sip"
+}
